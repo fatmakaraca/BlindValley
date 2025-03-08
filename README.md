@@ -24,8 +24,11 @@ The input is taken from a file containing the following information:
 Example input:
 
 2 1 - -
+
 - - 3 2
+    
 L R L R
+
 U D U D
 
 📤 Output Format
@@ -35,8 +38,11 @@ The program prints a valid solution using H, B, and N characters if a valid arra
 Example output:
 
 H B H B
+
 B H B H
+
 or
+
 No solution!
 
 📜 Algorithm Used
