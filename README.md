@@ -23,9 +23,8 @@ The input is taken from a file containing the following information:
    
 Example input:
 
-2 1 - -
-
-- - 3 2
+"2 1 - -"
+"- - 3 2"
     
 L R L R
 
